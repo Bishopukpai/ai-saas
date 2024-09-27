@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Gen-ews",
+  title: "Gen-z-ai",
   description: "Generative AI platform",
 };
 
